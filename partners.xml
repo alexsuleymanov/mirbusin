@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2018-01-22 13:53">
+ 
+			<shop>
+
+				<name>«БидХолл» товары для рукоделия</name>
+
+				<company>«БидХолл» товары для рукоделия</company>
+
+				<url>https://185.105.226.85</url>
+
+				<platform>AS-Commerce</platform>
+
+				<version>2.0</version> 
+
+				<currencies>
+
+					<currency id="UAH" rate="1"/>
+ 
+				</currencies>
+				<categories>
+<category id="337" parentId="335">Схемы для вышивки бисером</category>
+<category id="426" parentId="29">Бусины Стеклянные &quot;Битое стекло&quot;</category>
+<category id="16">Бисер</category>
+<category id="1">Бусины</category>
+<category id="438" parentId="29">Бусины Стеклянные Прессованные Crystal Art</category>
+<category id="564" parentId="335">Ленты</category>
+<category id="60">Фурнитура для бижутерии</category>
+<category id="711" parentId="335">Нити для Шитья</category>
+<category id="88">Инструменты и оборудование</category>
+<category id="428" parentId="29">Бусины Стеклянные Волочильные</category>
+<category id="11">Готовые украшения</category>
+<category id="491">Материалы для Нанизывания</category>
+<category id="335">Вышивка и Шитье</category>
+<category id="430" parentId="29">Бусины Стеклянные Гальванические</category>
+<category id="531">Рукоделие</category>
+<category id="419" parentId="3">Бусины Акриловые Античные</category>
+<category id="433" parentId="29">Бусины Стеклянные Имитация Камня</category>
+<category id="646" parentId="204">Авантюрин</category>
+<category id="647" parentId="204">Амазонит</category>
+<category id="645" parentId="204">Агат</category>
+<category id="733" parentId="204">Аметист</category>
+<category id="420" parentId="3">Бусины Акриловые Имитация Других Материалов</category>
+<category id="652" parentId="204">Бирюза</category>
+<category id="653" parentId="204">Гематит</category>
+<category id="734" parentId="204">Говлит</category>
+<category id="735" parentId="204">Гранат</category>
+<category id="421" parentId="3">Бусины Акриловые Красочные</category>
+<category id="434" parentId="29">Бусины Стеклянные Матовые</category>
+<category id="641" parentId="204">Другие Натуральные Камни</category>
+<category id="736" parentId="204">Кварц</category>
+<category id="737" parentId="204">Коралл</category>
+<category id="422" parentId="3">Бусины Акриловые Прозрачные</category>
+<category id="650" parentId="204">Кошачий Глаз</category>
+<category id="738" parentId="204">Лазурит</category>
+<category id="423" parentId="3">Бусины Акриловые с Покрытием </category>
+<category id="435" parentId="29">Бусины Стеклянные Обычные</category>
+<category id="739" parentId="204">Лунный Камень</category>
+<category id="648" parentId="204">Нефрит</category>
+<category id="740" parentId="204">Опал</category>
+<category id="424" parentId="3">Акриловый Жемчуг</category>
+<category id="741" parentId="204">Родонит</category>
+<category id="742" parentId="204">Солнечный Камень</category>
+<category id="144" parentId="16">Чешский бисер Preciosa</category>
+<category id="436" parentId="29">Бусины Стеклянные Окрашенные</category>
+<category id="743" parentId="204">Тигровый Глаз</category>
+<category id="744" parentId="204">Хрусталь</category>
+<category id="143" parentId="16">Китайский</category>
+<category id="745" parentId="204">Янтарь</category>
+<category id="649" parentId="204">Яшма</category>
+<category id="729" parentId="11">Временные татуировки (Флеш Тату)</category>
+<category id="3" parentId="1">Бусины Акриловые</category>
+<category id="9" parentId="1">Бусины Деревянные</category>
+<category id="133" parentId="85">Плетеные</category>
+<category id="22" parentId="1">Бусины из Смолы</category>
+<category id="23" parentId="1">Бусины Лэмпворк</category>
+<category id="24" parentId="1">Бусины Металлические</category>
+<category id="27" parentId="1">Бусины Пандора</category>
+<category id="28" parentId="1">Глиняные и Фарфоровые</category>
+<category id="29" parentId="1">Бусины Стеклянные</category>
+<category id="30" parentId="1">Бусины Оплетенные</category>
+<category id="41" parentId="11">Браслеты</category>
+<category id="43" parentId="11">Серьги</category>
+<category id="732" parentId="60">Наборы из Основ для Колец, Ключей и Заколок</category>
+<category id="62" parentId="60">Пины и Штифты</category>
+<category id="64" parentId="60">Зажимы и Концевики</category>
+<category id="65" parentId="60">Застежки и Замочки</category>
+<category id="71" parentId="60">Колечки</category>
+<category id="73" parentId="60">Шапочки и Конусы для Бусин</category>
+<category id="83" parentId="60">Швензы</category>
+<category id="86" parentId="85">Вощеные</category>
+<category id="87" parentId="85">Замшевые</category>
+<category id="96" parentId="85">Резиновые</category>
+<category id="104" parentId="1">Бусины Шамбала</category>
+<category id="105" parentId="85">Кожаные</category>
+<category id="500" parentId="496">Готовые Основы для Ожерелий</category>
+<category id="501" parentId="496">Шнуры с Петелькой</category>
+<category id="502" parentId="60">Фурнитура для Волос</category>
+<category id="503" parentId="502">Основа для Заколок</category>
+<category id="499" parentId="496">Готовые Основы для браслетов Стиль Пандора</category>
+<category id="488" parentId="60">Фурнитура для Броши</category>
+<category id="485" parentId="29">Стеклянный Жемчуг</category>
+<category id="469" parentId="1">Бусины со Стразами</category>
+<category id="470" parentId="24">Бусины Клуазоне</category>
+<category id="487" parentId="29">Хрусталь Австрийский Имитация</category>
+<category id="113" parentId="85">Нейлоновые</category>
+<category id="204" parentId="1">Натуральный камень</category>
+<category id="440" parentId="60">Сеттинги</category>
+<category id="131" parentId="11">Комплекты</category>
+<category id="406" parentId="60">Держатели</category>
+<category id="210" parentId="209">Наборы для вышивки бисером</category>
+<category id="324" parentId="322">Ленты для квилинга </category>
+<category id="345" parentId="343">Madeira</category>
+<category id="352" parentId="322">Наборы для квиллинга</category>
+<category id="343" parentId="342">Madeira</category>
+<category id="347" parentId="343">Madeira Silk</category>
+<category id="346" parentId="343">Metallic Madeira </category>
+<category id="348" parentId="343">Decora Madeira</category>
+<category id="323" parentId="322">Инструменты для квилинга</category>
+<category id="371" parentId="144">Упаковка 5г</category>
+<category id="387" parentId="386">Фоамиран иранский</category>
+<category id="388" parentId="386">Молды и Каттеры</category>
+<category id="389" parentId="386">Сопутствующие товары</category>
+<category id="403" parentId="85">Паракорд</category>
+<category id="457" parentId="1">Жемчуг Натуральный, Ракушки и Перламутр</category>
+<category id="472" parentId="469">Бусины Разделители со Стразами</category>
+<category id="474" parentId="469">Бусины Металлические со Стразами </category>
+<category id="489" parentId="60">Основы для Колец</category>
+<category id="492" parentId="491">Проволока и Тросики</category>
+<category id="493" parentId="491">Нити и Шнуры</category>
+<category id="496" parentId="491">Готовые Основы для Бижутерии</category>
+<category id="495" parentId="491">Цепи </category>
+<category id="497" parentId="496">Готовые Основы для Браслетов Кольцевые</category>
+<category id="498" parentId="496">Готовые Основы для Браслетов Цепнообразные</category>
+<category id="506" parentId="65">Замочки для Ключей</category>
+<category id="505" parentId="502">Основы под Ободки</category>
+<category id="507" parentId="65">Застежка Крючок</category>
+<category id="508" parentId="65">Закручивающаяся</category>
+<category id="509" parentId="65">Карабин Лобстер</category>
+<category id="510" parentId="65">Застежка Клипса</category>
+<category id="513" parentId="65">Застежка Магнитная</category>
+<category id="512" parentId="65">Застежка Коробочка</category>
+<category id="514" parentId="65">Застежка Тогл</category>
+<category id="516" parentId="493">Шнуры Вощеные</category>
+<category id="517" parentId="493">Шнуры Замшевые</category>
+<category id="518" parentId="493">Ремешки Имитация Кожи</category>
+<category id="519" parentId="493">Шнуры Натуральная Кожа</category>
+<category id="520" parentId="493">Шнуры Нейлоновые</category>
+<category id="521" parentId="493">Шнуры Паракорд</category>
+<category id="522" parentId="493">Шнуры Плетеные</category>
+<category id="524" parentId="493">Шнуры Вощеный Полиэстер</category>
+<category id="525" parentId="493">Шнуры Резиновые</category>
+<category id="526" parentId="493">Нить Силиконовая</category>
+<category id="527" parentId="493">Шнуры Эластичные</category>
+<category id="528" parentId="493">Нить Эластичная</category>
+<category id="529" parentId="493">Мононить</category>
+<category id="530" parentId="60">Фурнитура для Часов</category>
+<category id="532" parentId="531">Скрапбукинг</category>
+<category id="534" parentId="532">Клей/Скотч </category>
+<category id="535" parentId="531">Лепка</category>
+<category id="536" parentId="531">Фоамиран</category>
+<category id="537" parentId="531">Фурнитура для игрушек</category>
+<category id="538" parentId="536">Молды и Аксессуары</category>
+<category id="539" parentId="536">Фоамиран</category>
+<category id="540" parentId="60">Кабошоны</category>
+<category id="541" parentId="540">Кабошоны Стеклянные</category>
+<category id="542" parentId="540">Кабошоны из Смолы</category>
+<category id="543" parentId="540">Кабошоны Акриловые</category>
+<category id="544" parentId="540">Кабошоны Натуральный Камень</category>
+<category id="545" parentId="60">Кулоны и Подвески</category>
+<category id="546" parentId="545">Кулоны Лэмпворк</category>
+<category id="547" parentId="545">Кулоны Железные</category>
+<category id="548" parentId="545">Кулоны Металлические</category>
+<category id="549" parentId="545">Кулоны Медальоны</category>
+<category id="552" parentId="545">Кулоны Натуральный Камень</category>
+<category id="551" parentId="545">Кулоны Эмалированные</category>
+<category id="553" parentId="545">Кулоны со Стразами</category>
+<category id="554" parentId="60">Коннекторы</category>
+<category id="555" parentId="554">Бейлы</category>
+<category id="557" parentId="554">Коннекторы Различной Формы</category>
+<category id="558" parentId="554">Коннекторы Простые</category>
+<category id="559" parentId="495">Акриловые Звенья Цепей</category>
+<category id="560" parentId="495">Цепи Алюминиевые</category>
+<category id="561" parentId="495">Цепи Железные и из Сплава</category>
+<category id="562" parentId="495">Цепи из Латуни</category>
+<category id="563" parentId="495">Цепи со Стразами</category>
+<category id="565" parentId="564">Ленты Атласные</category>
+<category id="566" parentId="564">Ленты из Органзы</category>
+<category id="567" parentId="564">Ленты Репсовые</category>
+<category id="568" parentId="564">Ленты Хлопковые</category>
+<category id="569" parentId="492">Проволока Алюминиевая</category>
+<category id="570" parentId="492">Проволока Железная</category>
+<category id="571" parentId="492">Проволока Медная</category>
+<category id="572" parentId="492">Проволока с Памятью</category>
+<category id="573" parentId="492">Ювелирный Тросик</category>
+<category id="574" parentId="88">Упаковка</category>
+<category id="575" parentId="88">Инструменты</category>
+<category id="576" parentId="88">Оборудование</category>
+<category id="577" parentId="60">Стразы</category>
+<category id="579" parentId="535">Полимерная Глина</category>
+<category id="580" parentId="535">Инструменты для лепки</category>
+<category id="582" parentId="335">Пуговицы</category>
+<category id="583" parentId="537">Глазки</category>
+<category id="584" parentId="537">Носики</category>
+<category id="585" parentId="537">Другая Фурнитура для Игрушек</category>
+<category id="586" parentId="335">Пайетки</category>
+<category id="588" parentId="574">Коробочки Подарочные</category>
+<category id="592" parentId="60">Фурнитура со Стразами</category>
+<category id="590" parentId="574">Пластиковые Пакеты</category>
+<category id="593" parentId="592">Коннекторы со Стразами</category>
+<category id="594" parentId="592">Разделители для Бусин со Стразами</category>
+<category id="595" parentId="60">Бусины Фурнитурные</category>
+<category id="596" parentId="595">Бусины Фурнитурные из Латуни и Сплава</category>
+<category id="597" parentId="595">Оболочки Ловушки для Бусин</category>
+<category id="598" parentId="595">Бусины с Эффектом &quot;Звездной Пыли&quot;</category>
+<category id="599" parentId="595">Бусины-Рамки Металлические</category>
+<category id="600" parentId="595">Бусины Трубочки</category>
+<category id="601" parentId="595">Бусины Зажимные (Стопперы)</category>
+<category id="602" parentId="595">Бусины Ажурные Филигранные</category>
+<category id="603" parentId="595">Бусины Проволочные</category>
+<category id="604" parentId="595">Бусины Крышки Кримпов</category>
+<category id="605" parentId="60">Фурнитура для Цепочек</category>
+<category id="606" parentId="440">Цапы для Риволи</category>
+<category id="607" parentId="60">Бусины Регализ</category>
+<category id="608" parentId="144">Упаковка 50г</category>
+<category id="613" parentId="575">Измерительные Инструменты</category>
+<category id="614" parentId="575">Ювелирные Плоскогубцы</category>
+<category id="615" parentId="575">Ювелирные Инструменты</category>
+<category id="616" parentId="488">Булавки под Брошь</category>
+<category id="617" parentId="488">Основа под Брошь с Платформой</category>
+<category id="618" parentId="104">Бусины из Смолы со Стразами</category>
+<category id="619" parentId="104">Бусины Полимерная Глина со Стразами</category>
+<category id="621" parentId="23">Бусины Лэмпворк с Фольгой</category>
+<category id="624" parentId="24">Бусины Алюминиевые</category>
+<category id="625" parentId="24">Бусины-Разделители</category>
+<category id="626" parentId="24">Бусины Тибетского Стиля</category>
+<category id="627" parentId="27">Пандора Бусины Акриловые</category>
+<category id="628" parentId="27">Пандора Бусины из Смолы</category>
+<category id="629" parentId="27">Пандора Бусины со Стразами</category>
+<category id="630" parentId="27">Пандора Бусины Лэмпворк</category>
+<category id="631" parentId="27">Пандора Бусины Каменные</category>
+<category id="632" parentId="27">Пандора Стопперы и Вставки</category>
+<category id="636" parentId="27">Пандора Бусины с Подвеской</category>
+<category id="634" parentId="27">Пандора Бусины Фарфоровые</category>
+<category id="635" parentId="27">Пандора Бусины Стеклянные</category>
+<category id="637" parentId="27">Пандора Бусины Металлические</category>
+<category id="638" parentId="28">Бусины Фарфоровые</category>
+<category id="639" parentId="28">Бусины Индонезийские</category>
+<category id="640" parentId="28">Бусины из Полимерной Глины</category>
+<category id="654" parentId="83">Заглушки для Пусет</category>
+<category id="655" parentId="83">Основы для Клипс</category>
+<category id="656" parentId="83">Основы для Пусет</category>
+<category id="657" parentId="83">Швензы для Сережек</category>
+<category id="669" parentId="532">Штампы и штемпельные подушечки </category>
+<category id="671" parentId="440">Коннектор-Сеттинг под Кабошон</category>
+<category id="672" parentId="440">Коннектор-Сеттинг под Стразы</category>
+<category id="673" parentId="440">Кулон-Сеттинг под Стразы</category>
+<category id="676" parentId="440">Сеттинги Универсальные под Кабошон</category>
+<category id="675" parentId="440">Кулон-Сеттинг под Кабошон</category>
+<category id="677" parentId="64">Протекторы для Проволоки</category>
+<category id="678" parentId="64">Концевики с Цепочкой</category>
+<category id="679" parentId="64">Каллоты, Зажимы и Концевики для Бус</category>
+<category id="680" parentId="64">Концевики для Шнура</category>
+<category id="681" parentId="64">Зажимы для Лент</category>
+<category id="683" parentId="489">Основы для Колец с Петелькой</category>
+<category id="684" parentId="489">Основы для Колец с Платформой</category>
+<category id="687" parentId="62">Пины Гвоздики</category>
+<category id="686" parentId="489">Другие Основы для Колец</category>
+<category id="688" parentId="62">Пины с Колечком</category>
+<category id="689" parentId="62">Пины с Шариком</category>
+<category id="690" parentId="62">Пины Другие</category>
+<category id="691" parentId="24">Бусины Тибет Стиль (Ручная Работа)</category>
+<category id="694" parentId="60">Разделители</category>
+<category id="695" parentId="577">Акриловые Стразы</category>
+<category id="696" parentId="577">Стразы Хрустальные</category>
+<category id="697" parentId="11">Часы Женские</category>
+<category id="698" parentId="574">Подарочные Мешочки</category>
+<category id="699" parentId="574">Целлофановые Пакеты</category>
+<category id="700" parentId="3">Акриловые Бусины-разделители</category>
+<category id="703" parentId="65">Карабин Кольцо</category>
+<category id="704" parentId="65">Застежка Слайдер</category>
+<category id="705" parentId="65">Карабин Поворотный</category>
+<category id="706" parentId="65">Застежка Твистер</category>
+<category id="708" parentId="493">Шнуры Полиэстеровые</category>
+<category id="709" parentId="531">Помпоны ручной работы</category>
+<category id="710" parentId="65">Застежка для Альпинистов</category>
+<category id="712" parentId="711">Нити Нейлоновые</category>
+<category id="713" parentId="711">Нити Полиэстеровые</category>
+<category id="714" parentId="493">Нити для Бисера</category>
+<category id="715" parentId="577">Стразы Пришивные</category>
+<category id="716" parentId="577">Стразы Термоклеевые</category>
+<category id="717" parentId="582">Основы под Запонки</category>
+<category id="718" parentId="582">Пуговицы Акриловые</category>
+<category id="720" parentId="582">Пуговицы Деревянные</category>
+<category id="721" parentId="582">Пуговицы из Раковин</category>
+<category id="722" parentId="582">Пуговицы из Смолы</category>
+<category id="723" parentId="582">Пуговицы Кокосовые</category>
+<category id="724" parentId="582">Пуговицы Металлические</category>
+<category id="726" parentId="493">Шнуры Искусственная Кожа</category>
+<category id="727" parentId="531">Перья</category>
+<category id="728" parentId="335">Аксессуары для Украшений</category>
+				</categories>
+				<offers>

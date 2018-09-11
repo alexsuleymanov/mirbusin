@@ -1,0 +1,62 @@
+RewriteEngine on
+RewriteBase /
+
+<ifModule mod_expires.c>
+ExpiresActive On
+ 
+# Включаем кэширование изображений и флэш на месяц
+ExpiresByType image/x-icon "access plus 1 month"
+ExpiresByType image/jpeg "access plus 4 weeks"
+ExpiresByType image/png "access plus 30 days"
+ExpiresByType image/gif "access plus 43829 minutes"
+ExpiresByType application/x-shockwave-flash "access plus 2592000 seconds"
+ 
+# Включаем кэширование css, javascript и текстовых файлоф на одну неделю
+ExpiresByType text/css "access plus 604800 seconds"
+ExpiresByType text/javascript "access plus 604800 seconds"
+ExpiresByType application/javascript "access plus 604800 seconds"
+ExpiresByType application/x-javascript "access plus 604800 seconds"
+  
+# Включаем кэширование xml файлов на десять минут
+ExpiresByType application/xhtml+xml "access plus 600 seconds"
+ 
+# Нестандартные шрифты сайта 
+ExpiresByType application/x-font-ttf "access plus 1 month"
+ExpiresByType font/opentype "access plus 1 month"
+ExpiresByType application/x-font-woff "access plus 1 month"
+ExpiresByType image/svg+xml "access plus 1 month"
+ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
+</ifModule>
+
+
+RewriteCond %{REQUEST_URI} !^/admin
+RewriteCond %{REQUEST_URI} !^/admin/
+RewriteCond %{REQUEST_URI} !^/fckeditor/
+RewriteCond %{REQUEST_URI} !^/myadmin/
+RewriteCond %{REQUEST_URI} !^/pic/
+RewriteCond %{REQUEST_URI} !^/app/
+RewriteCond %{REQUEST_URI} !^/robots.txt
+RewriteCond %{REQUEST_URI} !^/sitemap.xml
+RewriteCond %{REQUEST_URI} !^/sitemap.html
+RewriteCond %{REQUEST_URI} !^/favicon.ico
+RewriteCond %{REQUEST_URI} !^/google890f336dcd9b5dde.html
+RewriteCond %{REQUEST_URI} !^/yandex_092429e1668d9b8c.html
+RewriteCond %{REQUEST_URI} !^/ecc29d638419.html
+RewriteCond %{REQUEST_URI} !^/googleb6fe9d355cedc4b9.html
+RewriteCond %{REQUEST_URI} !^/partners.xml
+RewriteCond %{REQUEST_URI} !^/convert.php
+RewriteCond %{REQUEST_URI} !^/7262A38E20FBC3747E6B5B107081F80A.txt
+RewriteCond %{REQUEST_URI} !^/.well-known/
+RewriteCond %{REQUEST_URI} !^/sp-push-worker.js
+RewriteCond %{REQUEST_URI} !^/sp-push-manifest.json
+RewriteRule ^(.*)$ cms.php
+
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
